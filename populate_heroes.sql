@@ -1,0 +1,20 @@
+INSERT INTO osfe_heroes
+VALUES
+	(00,'saffron_default',1200,0.0,3,0.5,10,'Field Bracer'),
+    (01,'saffron_chrono',1200,2,4,0.5,10,'Wristwatch'),
+    (02,'saffron_solo',300,0,4,0.6,10,'Field Bracer'),
+    (03,'reva_shield',800,2,3,0.5,10,'Reflector Gem'),
+    (04,'reva_beat',700,2,3,0.5,10,'Reflector Gem'),
+    (05,'gunner_manafire',1000,0,4,0,10,'M4 Manafire'),
+	(06,'gunner_bullethell',400,0,2,0.1,20,'M3 Triwing'),
+    (07,'selicy_snow',1000,0,3,0.45,10,'Snowpiercer'),
+    (08,'selicy_invade',1000,0,3,0.15,10,'Fairfrozen'),
+    (09,'hazel_build',1000,0,3,0.5,10,'Mech Wrench'),
+    (10,'hazel_teardown',1000,0,3,0,10,'Dismantle Wrench'),
+    (11,'terra_break',1000,0,3,0.5,10,'Terraform'),
+    (12,'terra_pyro',1000,0,3,0.5,10,'Terraflame'),
+    (13,'shiso_execute',800,0,3,0.5,80,'Lynchpin'),
+    (14,'shiso_kunai',800,0,2,0.5,20,'Knifetrick'),
+    (15,'violette_doubletime',900,0,3,0.3,10,'Grace'),
+    (16,'violette_aria',900,0,4,0.3,10,'Fermata'),
+    (17,'shopkeeper_money',400,0,4,0.5,400,'Payback');
